@@ -1,3 +1,3 @@
 # gitcourse
 
-##THIS A COURSE GITHUB
+## THIS A COURSE GITHUB
