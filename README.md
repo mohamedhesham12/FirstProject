@@ -1,3 +1,3 @@
-# gitcourse
+# this is my first project
 
-## THIS A COURSE GITHUB
+## webpage using html and css
